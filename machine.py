@@ -1,0 +1,12 @@
+machine=[]
+machine.append("Bugati")
+machine.append("Lexus")
+machine.append("Mazda")
+machine.append("BAZ")
+machine.append("жигули")
+machine.append("lanos")
+machine.append("bmw")
+machine.append("lancer")
+machine.append("tesla")
+machine.append("mers")
+print(machine)
